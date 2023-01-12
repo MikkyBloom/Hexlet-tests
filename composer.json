@@ -1,0 +1,10 @@
+{
+    "name": "spaceguy/hexlet-tests",
+    "description": "hexlet-tests",
+    "autoload": {
+        "files": [
+            "StringUtils.php",
+            "StrinUtilsTest.php"
+        ]
+    }
+}
